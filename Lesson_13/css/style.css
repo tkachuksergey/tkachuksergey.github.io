@@ -1,0 +1,78 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+.container {
+	width: 570px;
+	height: 570px;
+	background-color: #ebf4f4;
+	border: 2px solid #aeaeae;
+}
+.form {
+	height: 370px;
+	width: 320px;
+	background-color: #fff;
+	margin: 100px 125px;
+border: 2px solid #aeaeae;
+}
+.form-header {
+	text-transform: uppercase;
+	font-stretch: semi-condensed;
+	font-weight: 700;
+	font-size: 11px;
+	font-family: Arial;
+	padding: 0px 10px 0px 37px;
+	color: white;
+	height: 20px;
+	width: 103px;
+	background-color: #01b3b3;
+	z-index: 99;
+margin-left: 30px;
+}
+.mail {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: 900;
+	padding: 10px 0px 0px 30px;
+	margin-top: 21px;
+}
+.star {
+	color: #01b3b3;
+}
+.input-mail {
+	font-size: 12px;
+	border: 2px solid #eee;
+	height: 30px;
+	width: 247px;
+	padding-left: 10px;
+	margin-left: 30px;
+	background-color: #ebf4f4;
+}
+.cho-pass, .con-pass {
+	font-family: Arial;
+	font-size: 11px;
+	font-weight: 900;
+	padding: 0px 0px 0px 30px;
+	/*background-color: #ebf4f4;*/
+}
+.pass {
+	font-size: 12px;
+	border: 2px solid #eee;
+	height: 30px;
+	width: 247px;
+	padding-left: 10px;
+	margin-left: 30px;
+	background-color: #ebf4f4;
+}
+.btn {
+	height: 46px;
+	width: 260px;
+	border-radius: 5px;
+	background-color: #01b3b3;
+	color: white;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin: 33px 0px 0px 28px;
+}

@@ -12,3 +12,5 @@
 [Урок 14_2](https://tkachuksergey.github.io/Lesson_14_2/index.html)
 
 [Урок 15](https://tkachuksergey.github.io/Lesson_15/index.html)
+
+[Урок 16](https://tkachuksergey.github.io/Lesson_16/index.html)

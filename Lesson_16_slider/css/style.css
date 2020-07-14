@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	text-align: center;
+}
+.fotorama {margin: 10px auto;
+	display: block;
+	text-align: center;
+}

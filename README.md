@@ -14,3 +14,5 @@
 [Урок 15](https://tkachuksergey.github.io/Lesson_15/index.html)
 
 [Урок 16](https://tkachuksergey.github.io/Lesson_16/index.html)
+
+[Урок 16_slider](https://tkachuksergey.github.io/Lesson_16_slider/index.html)

@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Всплывающие окна</title>
+    <!-- Bootstrap core CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      
+      <button class="btn btn-success" data-toggle="modal" data-target="#del">Удалить файл</button>
+    </div><!-- /.container -->
+    <!-- Модальное окно от bootstrap-->
+    <div class="modal fade" id="del">
+    	<!-- Само модальное окно -->
+  <div class="modal-dialog">
+  	<!-- Содержимое модального окна -->
+    <div class="modal-content">
+    	<!-- Шапка модального окна -->
+      <div class="modal-header">
+      	<!-- Кнопка закрыть -->
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <!-- Заголовок модального окна -->
+        <h4 class="modal-title">Удаление</h4>
+      </div>
+      <!-- Тело модального окна -->
+      <div class="modal-body">
+        <h3>Вы действительно  хотите удалить файл?</h3>
+        
+      </div>
+      <!-- Подвал модального окна -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Да</button>
+        <button type="button" class="btn btn-primary">Нет</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    
+  </body>
+</html>

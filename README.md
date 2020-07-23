@@ -20,3 +20,5 @@
 [Урок 16_1](https://tkachuksergey.github.io/Lesson_16_1/index.html)
 
 [Урок 17](https://tkachuksergey.github.io/Lesson_17/index.html)
+
+[Урок 17_1](https://tkachuksergey.github.io/Lesson_17_1/index.html)
